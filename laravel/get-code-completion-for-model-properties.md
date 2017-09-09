@@ -1,6 +1,6 @@
 # Get code completion for model properties in PhpStorm
 
-There is not out-of-the-box code completion for model properties. They need to be annotated like this:
+There is no out-of-the-box code completion for model properties. They need to be annotated like this:
 ```
 @property $name
 ```
